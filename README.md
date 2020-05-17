@@ -20,4 +20,4 @@ npm install
 npm run serve
 ```
 
-![Preview](https://github.com/theeverythinggeek/Learning-vue-by-building-app2/blob/master/preview.jpg" Preview")
+![](https://raw.githubusercontent.com/theeverythinggeek/Learning-vue-by-building-app2/master/preview.jpg)
