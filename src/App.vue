@@ -13,7 +13,7 @@
 
         <div class="weather-box">
           <div v-if="showResult" class="weather">Rain</div>
-          <div v-if="showResult" class="temp">35°C</div>
+          <div v-if="showResult" class="temp">33°C</div>
         </div>
 
       </div>
